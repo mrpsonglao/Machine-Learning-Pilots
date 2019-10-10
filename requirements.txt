@@ -184,7 +184,7 @@ rope==0.11.0
 ruamel-yaml==0.15.46
 s3transfer==0.1.13
 scholarly==0.2
-scs==1.2.6
+# scs==1.2.6
 seaborn==0.9.0
 selenium==3.141.0
 Send2Trash==1.5.0
