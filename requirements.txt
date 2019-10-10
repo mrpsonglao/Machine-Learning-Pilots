@@ -196,6 +196,7 @@ smart-open==1.6.0
 snowballstemmer==1.2.1
 sortedcollections==1.0.1
 sortedcontainers==2.1.0
+spacy==2.2.0
 Sphinx==1.8.2
 sphinxcontrib-websupport==1.1.0
 spyder==3.3.2
