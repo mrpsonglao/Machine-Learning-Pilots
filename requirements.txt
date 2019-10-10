@@ -51,8 +51,8 @@ defusedxml==0.5.0
 dill==0.2.8.2
 distributed==1.25.1
 docutils==0.14
-ecos==2.0.5
-empath==0.89
+# ecos==2.0.5
+# empath==0.89
 en-core-web-sm==2.0.0
 entrypoints==0.2.3
 et-xmlfile==1.0.1
